@@ -14,7 +14,7 @@
 
 def findPair(Arr,sum):
     # consider each element except the last
-    for i in range(len(Arr)-1):
+    for i in range(0,len(Arr)-1):
 
         # start from the i'th element until the last element
         for j in range(i+1,len(Arr)):
