@@ -7,3 +7,5 @@ Question 3:Search an element from array.<br>
 Solution : [Day3](Day3/searchForAnEle.js)<br>
 Question 4:Insert an element to array.<br>
 Solution : [Day4](Day4/InsertElementInArr.js)<br>
+Question 5:Implementations of Linkedlist operations.<br>
+Solution : [Day5](Day5/linklistOperations.c)<br>
