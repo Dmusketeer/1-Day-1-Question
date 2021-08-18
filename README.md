@@ -9,3 +9,5 @@ Question 4:Insert an element to array.<br>
 Solution : [Day4](Day4/InsertElementInArr.js)<br>
 Question 5:Implementations of Linkedlist operations.<br>
 Solution : [Day5](Day5/linklistOperations.c)<br>
+Question 6:Smallest and largest numbers in array.<br>
+Solution : [Day6](Day6/)<br>
