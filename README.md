@@ -11,3 +11,5 @@ Question 5:Implementations of Linkedlist operations.<br>
 Solution : [Day5](Day5/linklistOperations.c)<br>
 Question 6:Smallest and largest numbers in array.<br>
 Solution : [Day6](Day6/smallestAndLargest.py)<br>
+Question 7:Write a program to reverse an array or string.<br>
+Solution : [Day7](Day7/Reverse.py)<br>
