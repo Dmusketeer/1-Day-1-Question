@@ -13,3 +13,5 @@ Question 6:Smallest and largest numbers in array.<br>
 Solution : [Day6](Day6/smallestAndLargest.py)<br>
 Question 7:Write a program to reverse an array or string.<br>
 Solution : [Day7](Day7/Reverse.py)<br>
+Question 8:Write a program to Find duplicates in an array.<br>
+Solution : [Day8](Day8/duplicateArrayEle.py)<br>
