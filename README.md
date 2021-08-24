@@ -17,3 +17,6 @@ Question 8:Write a program to Find duplicates in an array.<br>
 Solution : [Day8](Day8/duplicateArrayEle.py)<br>
 Question 9:Write a program to remove the duplicates in an array.<br>
 Solution : [Day9](Day9/removeDuplicate.js)<br>
+Question 10:Write a program to find the second largest element in an array.<br>
+Solution : [Day10](Day10/second_largest.js)<br>
+
