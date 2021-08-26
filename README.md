@@ -21,6 +21,8 @@ Question 10:Write a program to find the second largest element in an array.<br>
 Solution : [Day10](Day10/second_largest.js)<br>
 Question 11:Write a program for array rotation.<br>
 Solution : [Day11](Day11/rotate_array.py)<br>
+Question 12:Write a program for array rotation(reversal algorithm).<br>
+Solution : [Day12](Day12/reversal_algo.js)<br>
 
 
 
