@@ -23,7 +23,7 @@ Question 11:Write a program for array rotation.<br>
 Solution : [Day11](Day11/rotate_array.py)<br>
 Question 12:Write a program for array rotation(reversal algorithm).<br>
 Solution : [Day12](Day12/reversal_algo.js)<br>
-Question 123:Write a program to Search an element in a Linked List (Iterative way).<br>
+Question 13:Write a program to Search an element in a Linked List (Iterative way).<br>
 Solution : [Day13](Day13/searchingLinkedlist.js)<br>
 
 
