@@ -25,6 +25,8 @@ Question 12:Write a program for array rotation(reversal algorithm).<br>
 Solution : [Day12](Day12/reversal_algo.js)<br>
 Question 13:Write a program to Search an element in a Linked List (Iterative way).<br>
 Solution : [Day13](Day13/searchingLinkedlist.js)<br>
+Question 14:Linked List Deletion (Deleting a given key)<br>
+Solution : [Day14](Day14/deleteANode.py)<br>
 
 
 
