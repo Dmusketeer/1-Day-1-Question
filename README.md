@@ -26,7 +26,9 @@ Solution : [Day12](Day12/reversal_algo.js)<br>
 Question 13:Write a program to Search an element in a Linked List (Iterative way).<br>
 Solution : [Day13](Day13/searchingLinkedlist.js)<br>
 Question 14:Linked List Deletion (Deleting a given key)<br>
-Solution : [Day14](Day14/deleteANode.py)<br>
+Solution : [Day14](Day14/deleteANody)<br>
+Question 15:Find Length of a Linked List (Iterative)<br>
+Solution : [Day15](Day15/)<br>
 
 
 
