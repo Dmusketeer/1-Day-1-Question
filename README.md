@@ -33,6 +33,8 @@ Question 16:Program to insert in a sorted list<br>
 Solution : [Day16](Day16/insertInSortedLL.js)<br>
 Question 17:Write a function to delete a Linked List<br>
 Solution : [Day17](Day17/deleteLL.js)<br>
+Question 18:Array Function<br>
+Solution : [Day18](Day18/day18.js)<br>
 
 
 
